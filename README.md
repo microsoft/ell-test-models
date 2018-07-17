@@ -1,7 +1,11 @@
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This repo is provides data needed by the [ELL Project](https://microsoft.github.io/ELL/
+) testing process.  The repo contains a subset of the [ELL Models](https://github.com/microsoft/ell-models)
+that are used by our automated tests.  As such we do not expect any public contributions to this project.
+
+In general, most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
